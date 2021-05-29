@@ -1,4 +1,4 @@
-Project in DL\n
-Usage: \n
-python3 appl.py\n
+Project in DL <br>
+Usage: <br>
+python3 appl.py<br>
 remember to create a new folder for test images
